@@ -1,0 +1,140 @@
+{
+    "siteName": "Mil Apparel",
+    "tagline": "Premium Apparel for Those Who Serve",
+    "description": "Mil Apparel offers premium military identity and lifestyle apparel. Shop by branch and specialty, customize your gear, and find the perfect gift for servicemembers, veterans, and supporters.",
+    "url": "https://mil-apparel.vercel.app",
+    "email": "support@milapparel.com",
+    "social": {
+        "facebook": "https://facebook.com/milapparel",
+        "instagram": "https://instagram.com/milapparel",
+        "twitter": "https://twitter.com/milapparel"
+    },
+    "navigation": {
+        "primary": [
+            {
+                "name": "Shop All",
+                "href": "/shop"
+            },
+            {
+                "name": "Branches",
+                "href": "#",
+                "dropdown": [
+                    {
+                        "name": "Army",
+                        "href": "/collections/army"
+                    },
+                    {
+                        "name": "Navy",
+                        "href": "/collections/navy"
+                    },
+                    {
+                        "name": "Air Force",
+                        "href": "/collections/air-force"
+                    },
+                    {
+                        "name": "Marines",
+                        "href": "/collections/marines"
+                    },
+                    {
+                        "name": "Coast Guard",
+                        "href": "/collections/coast-guard"
+                    }
+                ]
+            },
+            {
+                "name": "Gifts",
+                "href": "#",
+                "dropdown": [
+                    {
+                        "name": "Retirement",
+                        "href": "/collections/retirement"
+                    },
+                    {
+                        "name": "Promotion",
+                        "href": "/collections/promotion"
+                    },
+                    {
+                        "name": "PCS",
+                        "href": "/collections/pcs"
+                    }
+                ]
+            },
+            {
+                "name": "Customize",
+                "href": "/customize",
+                "comingSoon": true
+            }
+        ],
+        "footer": {
+            "shop": [
+                {
+                    "name": "All Products",
+                    "href": "/shop"
+                },
+                {
+                    "name": "Customize",
+                    "href": "/customize"
+                },
+                {
+                    "name": "New Arrivals",
+                    "href": "/shop?filter=new"
+                },
+                {
+                    "name": "Best Sellers",
+                    "href": "/shop?filter=bestsellers"
+                },
+                {
+                    "name": "Customizable",
+                    "href": "/shop?filter=customizable"
+                }
+            ],
+            "collections": [
+                {
+                    "name": "By Branch",
+                    "href": "/collections#branches"
+                },
+                {
+                    "name": "By Role",
+                    "href": "/collections#roles"
+                },
+                {
+                    "name": "Gift Collections",
+                    "href": "/gifts"
+                }
+            ],
+            "support": [
+                {
+                    "name": "FAQ",
+                    "href": "/policies/faq"
+                },
+                {
+                    "name": "Shipping & Returns",
+                    "href": "/policies/shipping"
+                },
+                {
+                    "name": "Contact Us",
+                    "href": "/contact"
+                },
+                {
+                    "name": "Size Guide",
+                    "href": "/size-guide"
+                }
+            ],
+            "company": [
+                {
+                    "name": "About Us",
+                    "href": "/about"
+                },
+                {
+                    "name": "Privacy Policy",
+                    "href": "/policies/privacy"
+                }
+            ]
+        }
+    },
+    "settings": {
+        "currency": "USD",
+        "freeShippingThreshold": 75,
+        "giftWrappingPrice": 5
+    }
+}

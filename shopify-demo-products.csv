@@ -1,0 +1,63 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Weight Unit,Status
+army-strong-tshirt,Army Strong T-Shirt,"<p>Show your Army pride with this premium cotton t-shirt featuring the iconic ""Army Strong"" design. Made from 100% ring-spun cotton for superior comfort and durability.</p><ul><li>100% ring-spun cotton</li><li>Pre-shrunk fabric</li><li>Shoulder-to-shoulder taping</li><li>Quarter-turned to eliminate center crease</li></ul>",Mil Apparel,T-Shirts,"Army, Military, T-Shirt, Patriotic",true,Size,Small,Color,Black,MIL-ARMY-TS-BLK-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,Small,,Green,MIL-ARMY-TS-GRN-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,Medium,,Black,MIL-ARMY-TS-BLK-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,Medium,,Green,MIL-ARMY-TS-GRN-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,Large,,Black,MIL-ARMY-TS-BLK-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,Large,,Green,MIL-ARMY-TS-GRN-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,X-Large,,Black,MIL-ARMY-TS-BLK-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,X-Large,,Green,MIL-ARMY-TS-GRN-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,2X-Large,,Black,MIL-ARMY-TS-BLK-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active
+army-strong-tshirt,,,,,,,,2X-Large,,Green,MIL-ARMY-TS-GRN-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active
+usmc-semper-fi-hoodie,USMC Semper Fi Hoodie,"<p>Honor the Marine Corps tradition with this heavyweight hoodie featuring the legendary ""Semper Fidelis"" motto. Perfect for cooler weather.</p><ul><li>80% cotton, 20% polyester fleece</li><li>Front pouch pocket</li><li>Air-jet spun yarn with a soft feel</li><li>Double-lined hood with matching drawcord</li></ul>",Mil Apparel,Hoodies,"Marines, USMC, Military, Hoodie, Patriotic",true,Size,Small,Color,Navy,MIL-USMC-HD-NAV-S,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,Small,,Red,MIL-USMC-HD-RED-S,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,Medium,,Navy,MIL-USMC-HD-NAV-M,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,Medium,,Red,MIL-USMC-HD-RED-M,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,Large,,Navy,MIL-USMC-HD-NAV-L,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,Large,,Red,MIL-USMC-HD-RED-L,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,X-Large,,Navy,MIL-USMC-HD-NAV-XL,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,X-Large,,Red,MIL-USMC-HD-RED-XL,500,shopify,50,deny,manual,44.99,54.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,2X-Large,,Navy,MIL-USMC-HD-NAV-XXL,500,shopify,50,deny,manual,46.99,56.99,true,true,lb,active
+usmc-semper-fi-hoodie,,,,,,,,2X-Large,,Red,MIL-USMC-HD-RED-XXL,500,shopify,50,deny,manual,46.99,56.99,true,true,lb,active
+navy-anchor-cap,Navy Anchor Baseball Cap,"<p>Classic adjustable baseball cap featuring the Navy anchor emblem. Made with premium materials and adjustable strap for a perfect fit.</p><ul><li>100% cotton twill</li><li>Unstructured, low-profile design</li><li>Adjustable strap with buckle</li><li>Embroidered anchor design</li></ul>",Mil Apparel,Caps,"Navy, Military, Cap, Hat, Accessories",true,Color,Navy,,,MIL-NAVY-CAP-NAV,100,shopify,200,deny,manual,19.99,24.99,true,true,lb,active
+navy-anchor-cap,,,,,,,,Khaki,,,MIL-NAVY-CAP-KHA,100,shopify,200,deny,manual,19.99,24.99,true,true,lb,active
+navy-anchor-cap,,,,,,,,White,,,MIL-NAVY-CAP-WHT,100,shopify,200,deny,manual,19.99,24.99,true,true,lb,active
+air-force-wings-tshirt,Air Force Wings T-Shirt,"<p>Celebrate the U.S. Air Force with this sleek t-shirt featuring the iconic pilot wings design. Premium quality cotton for all-day comfort.</p><ul><li>100% ring-spun cotton</li><li>Pre-shrunk fabric</li><li>Side-seamed construction</li><li>High-quality screen print design</li></ul>",Mil Apparel,T-Shirts,"Air Force, Military, T-Shirt, Patriotic",true,Size,Small,Color,Air Force Blue,MIL-AF-TS-BLU-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,Small,,Gray,MIL-AF-TS-GRY-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,Medium,,Air Force Blue,MIL-AF-TS-BLU-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,Medium,,Gray,MIL-AF-TS-GRY-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,Large,,Air Force Blue,MIL-AF-TS-BLU-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,Large,,Gray,MIL-AF-TS-GRY-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,X-Large,,Air Force Blue,MIL-AF-TS-BLU-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,X-Large,,Gray,MIL-AF-TS-GRY-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,2X-Large,,Air Force Blue,MIL-AF-TS-BLU-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active
+air-force-wings-tshirt,,,,,,,,2X-Large,,Gray,MIL-AF-TS-GRY-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active
+coast-guard-backpack,Coast Guard Tactical Backpack,"<p>Heavy-duty tactical backpack perfect for Coast Guard personnel and enthusiasts. Features multiple compartments and MOLLE webbing.</p><ul><li>600D polyester construction</li><li>Water-resistant coating</li><li>Multiple compartments</li><li>MOLLE webbing</li><li>35L capacity</li></ul>",Mil Apparel,Backpacks,"Coast Guard, Military, Backpack, Tactical, Gear",true,Color,Coast Guard Orange,,,MIL-CG-BP-ORG,1200,shopify,30,deny,manual,69.99,89.99,true,true,lb,active
+coast-guard-backpack,,,,,,,,Navy,,,MIL-CG-BP-NAV,1200,shopify,30,deny,manual,69.99,89.99,true,true,lb,active
+coast-guard-backpack,,,,,,,,Black,,,MIL-CG-BP-BLK,1200,shopify,30,deny,manual,69.99,89.99,true,true,lb,active
+veteran-patch-set,Veteran Owned Patch Set,"<p>Show your support for veteran-owned businesses with this high-quality embroidered patch set. Perfect for jackets, backpacks, or tactical gear.</p><ul><li>Set of 3 patches</li><li>Embroidered design with hook backing</li><li>3 inch diameter</li><li>Easy to attach to any loop surface</li></ul>",Mil Apparel,Patches,"Veteran, Military, Patch, Accessories, Support",true,,,,,MIL-VET-PATCH-SET,25,shopify,500,deny,manual,12.99,16.99,true,true,lb,active
+challenge-coin-set,Military Branch Challenge Coin Collection,"<p>Collectible challenge coin set featuring all five military branches: Army, Navy, Air Force, Marines, and Coast Guard. Each coin comes in a premium display case.</p><ul><li>Set of 5 coins (one per branch)</li><li>2 inch diameter coins</li><li>Die-cast zinc alloy with enamel finish</li><li>Premium velvet display case included</li></ul>",Mil Apparel,Challenge Coins,"Military, Challenge Coin, Collectible, All Branches, Gift",true,,,,,MIL-CC-5SET,300,shopify,100,deny,manual,49.99,64.99,true,true,lb,active
+army-ranger-bottle,Army Ranger Water Bottle,"<p>Stay hydrated with this premium stainless steel water bottle featuring the Army Ranger tab. Double-wall insulated to keep drinks cold for 24 hours or hot for 12 hours.</p><ul><li>32 oz capacity</li><li>18/8 stainless steel</li><li>Double-wall vacuum insulation</li><li>Leak-proof cap</li><li>Laser-engraved design</li></ul>",Mil Apparel,Drinkware,"Army, Rangers, Water Bottle, Drinkware, Accessories",true,Color,Black,,,MIL-ARMY-WB-BLK,400,shopify,75,deny,manual,29.99,39.99,true,true,lb,active
+army-ranger-bottle,,,,,,,,Olive Drab,,,MIL-ARMY-WB-OD,400,shopify,75,deny,manual,29.99,39.99,true,true,lb,active
+army-ranger-bottle,,,,,,,,Tan,,,MIL-ARMY-WB-TAN,400,shopify,75,deny,manual,29.99,39.99,true,true,lb,active
+marines-devil-dog-ls,Marines Devil Dog Long Sleeve,"<p>Premium long sleeve shirt featuring the iconic Devil Dog design, a tribute to the fierce fighting spirit of the U.S. Marines.</p><ul><li>100% ring-spun cotton</li><li>Pre-shrunk fabric</li><li>Ribbed cuffs</li><li>Double-needle hem</li><li>High-quality screen print</li></ul>",Mil Apparel,Long Sleeve Shirts,"Marines, USMC, Military, Long Sleeve, Patriotic",true,Size,Small,Color,Charcoal,MIL-USMC-LS-CHA-S,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,Small,,Red,MIL-USMC-LS-RED-S,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,Medium,,Charcoal,MIL-USMC-LS-CHA-M,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,Medium,,Red,MIL-USMC-LS-RED-M,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,Large,,Charcoal,MIL-USMC-LS-CHA-L,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,Large,,Red,MIL-USMC-LS-RED-L,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,X-Large,,Charcoal,MIL-USMC-LS-CHA-XL,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,X-Large,,Red,MIL-USMC-LS-RED-XL,250,shopify,80,deny,manual,29.99,34.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,2X-Large,,Charcoal,MIL-USMC-LS-CHA-XXL,250,shopify,80,deny,manual,31.99,36.99,true,true,lb,active
+marines-devil-dog-ls,,,,,,,,2X-Large,,Red,MIL-USMC-LS-RED-XXL,250,shopify,80,deny,manual,31.99,36.99,true,true,lb,active
+american-flag-bandana,American Flag Bandana,"<p>Classic American flag bandana perfect for showing your patriotic spirit. Made from soft cotton and featuring vibrant colors that won't fade.</p><ul><li>100% cotton</li><li>22 x 22 inch size</li><li>Colorfast printing</li><li>Machine washable</li></ul>",Mil Apparel,Accessories,"Patriotic, American Flag, Bandana, Accessories",true,,,,,MIL-USA-BAND,30,shopify,300,deny,manual,8.99,12.99,true,true,lb,active
+support-veterans-tshirt,Support Our Veterans T-Shirt,"<p>Show your support for those who served with this meaningful t-shirt. A portion of proceeds goes to veteran support organizations.</p><ul><li>100% ring-spun cotton</li><li>Pre-shrunk fabric</li><li>Comfortable fit</li><li>Portion of proceeds supports veterans</li></ul>",Mil Apparel,T-Shirts,"Veteran, Support, Military, T-Shirt, Charity",true,Size,Small,Color,Navy,MIL-VET-TS-NAV-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,Small,,Gray,MIL-VET-TS-GRY-S,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,Medium,,Navy,MIL-VET-TS-NAV-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,Medium,,Gray,MIL-VET-TS-GRY-M,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,Large,,Navy,MIL-VET-TS-NAV-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,Large,,Gray,MIL-VET-TS-GRY-L,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,X-Large,,Navy,MIL-VET-TS-NAV-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,X-Large,,Gray,MIL-VET-TS-GRY-XL,200,shopify,100,deny,manual,24.99,29.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,2X-Large,,Navy,MIL-VET-TS-NAV-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active
+support-veterans-tshirt,,,,,,,,2X-Large,,Gray,MIL-VET-TS-GRY-XXL,200,shopify,100,deny,manual,26.99,31.99,true,true,lb,active

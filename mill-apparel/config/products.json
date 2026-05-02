@@ -1,0 +1,966 @@
+[
+    {
+        "id": "army-infantry-tee",
+        "name": "Army Infantry T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Premium cotton tee featuring Army Infantry insignia. Built to last with reinforced stitching and a comfortable athletic fit.",
+        "images": [
+            "/images/products/army-infantry-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "infantry"
+        ],
+        "isBestSeller": true,
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "OD Green",
+            "Gray"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.8,
+        "reviewCount": 124,
+        "branch": "army"
+    },
+    {
+        "id": "navy-aviation-hoodie",
+        "name": "Navy Aviation Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Heavyweight hoodie with Navy Aviation wings design. Perfect for cool weather, featuring a cozy fleece interior.",
+        "images": [
+            "/images/products/navy-aviation-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "aviation"
+        ],
+        "isBestSeller": true,
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Navy",
+            "Black",
+            "Gray"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.9,
+        "reviewCount": 89,
+        "branch": "navy"
+    },
+    {
+        "id": "marines-eod-tee",
+        "name": "Marines EOD T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Honor the brave EOD technicians with this premium Marines EOD tee. Featuring the iconic crab insignia.",
+        "images": [
+            "/images/products/marines-eod-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "eod"
+        ],
+        "isNew": true,
+        "isCustomizable": false,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Scarlet",
+            "Gold"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.7,
+        "reviewCount": 56,
+        "branch": "marines"
+    },
+    {
+        "id": "air-force-medical-tee",
+        "name": "Air Force Medical T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Premium tee for Air Force Medical personnel. Clean, professional design with medical caduceus.",
+        "images": [
+            "/images/products/air-force-medical-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "medical"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Air Force Blue",
+            "Black",
+            "White"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.6,
+        "reviewCount": 42,
+        "branch": "air-force"
+    },
+    {
+        "id": "coast-guard-hoodie",
+        "name": "Coast Guard Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Classic Coast Guard hoodie with embroidered emblem. Warm, durable, and built for the elements.",
+        "images": [
+            "/images/products/coast-guard-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isBestSeller": true,
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Navy",
+            "Orange",
+            "Gray"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.8,
+        "reviewCount": 67,
+        "branch": "coast-guard"
+    },
+    {
+        "id": "army-sf-tee",
+        "name": "Army Special Forces T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 32.99,
+        "description": "De Oppresso Liber. Premium tee honoring Army Special Forces with clean, respectful design.",
+        "images": [
+            "/images/products/army-sf-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "sf"
+        ],
+        "isNew": true,
+        "isCustomizable": false,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "OD Green"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.9,
+        "reviewCount": 103,
+        "branch": "army"
+    },
+    {
+        "id": "navy-tee",
+        "name": "Navy Classic T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 27.99,
+        "description": "Classic Navy tee with anchor insignia. Simple, clean design for everyday wear.",
+        "images": [
+            "/images/products/navy-tee.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Navy",
+            "Black",
+            "White"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.5,
+        "reviewCount": 78,
+        "branch": "navy"
+    },
+    {
+        "id": "marines-infantry-hoodie",
+        "name": "Marines Infantry Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 57.99,
+        "description": "Premium Marines Infantry hoodie. Heavyweight fleece, built tough for everyday wear.",
+        "images": [
+            "/images/products/marines-infantry-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "infantry"
+        ],
+        "isBestSeller": true,
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Scarlet"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.8,
+        "reviewCount": 91,
+        "branch": "marines"
+    },
+    {
+        "id": "air-force-engineering-tee",
+        "name": "Air Force Engineering T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Celebrate Air Force Engineering with this clean, professional design.",
+        "images": [
+            "/images/products/air-force-engineering-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "engineering"
+        ],
+        "isCustomizable": false,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Air Force Blue",
+            "Black"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.6,
+        "reviewCount": 38,
+        "branch": "air-force"
+    },
+    {
+        "id": "army-mp-hoodie",
+        "name": "Army Military Police Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Army MP hoodie featuring shield insignia. Professional quality, comfortable fit.",
+        "images": [
+            "/images/products/army-mp-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "mp"
+        ],
+        "isNew": true,
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "OD Green"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.7,
+        "reviewCount": 52,
+        "branch": "army"
+    },
+    {
+        "id": "navy-intelligence-tee",
+        "name": "Navy Intelligence T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Navy Intelligence tee with subtle, professional design. Perfect for daily wear.",
+        "images": [
+            "/images/products/navy-intelligence-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "intelligence"
+        ],
+        "isCustomizable": false,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Navy",
+            "Black"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.5,
+        "reviewCount": 34,
+        "branch": "navy"
+    },
+    {
+        "id": "marines-medical-hoodie",
+        "name": "Marines Medical Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Honor Navy Corpsmen and Marine Medical with this premium hoodie.",
+        "images": [
+            "/images/products/marines-medical-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "medical"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Navy"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.9,
+        "reviewCount": 66,
+        "branch": "marines"
+    },
+    {
+        "id": "army-aviation-cap",
+        "name": "Army Aviation Cap",
+        "category": "accessories",
+        "type": "cap",
+        "price": 24.99,
+        "description": "Structured cap with Army Aviation insignia. Adjustable, comfortable fit.",
+        "images": [
+            "/images/products/army-aviation-cap.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "aviation"
+        ],
+        "isBestSeller": false,
+        "isCustomizable": false,
+        "colors": [
+            "Black",
+            "OD Green",
+            "Tan"
+        ],
+        "material": "Cotton twill",
+        "rating": 4.7,
+        "reviewCount": 112,
+        "branch": "army"
+    },
+    {
+        "id": "navy-cap",
+        "name": "Navy Classic Cap",
+        "category": "accessories",
+        "type": "cap",
+        "price": 22.99,
+        "description": "Classic Navy cap with anchor embroidery. Everyday essential.",
+        "images": [
+            "/images/products/navy-cap.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isNew": true,
+        "isCustomizable": false,
+        "colors": [
+            "Navy",
+            "Black",
+            "White"
+        ],
+        "material": "Cotton twill",
+        "rating": 4.6,
+        "reviewCount": 87,
+        "branch": "navy"
+    },
+    {
+        "id": "marines-cap",
+        "name": "Marines EGA Cap",
+        "category": "accessories",
+        "type": "cap",
+        "price": 24.99,
+        "description": "Marine Corps Eagle, Globe, and Anchor cap. Semper Fi.",
+        "images": [
+            "/images/products/marines-cap.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "colors": [
+            "Black",
+            "Scarlet",
+            "Tan"
+        ],
+        "material": "Cotton twill",
+        "rating": 4.8,
+        "reviewCount": 143,
+        "branch": "marines"
+    },
+    {
+        "id": "air-force-cap",
+        "name": "Air Force Wings Cap",
+        "category": "accessories",
+        "type": "cap",
+        "price": 22.99,
+        "description": "Air Force wings cap with clean embroidery. Comfortable all-day wear.",
+        "images": [
+            "/images/products/air-force-cap.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "colors": [
+            "Air Force Blue",
+            "Black"
+        ],
+        "material": "Cotton twill",
+        "rating": 4.5,
+        "reviewCount": 69,
+        "branch": "air-force"
+    },
+    {
+        "id": "eod-patch",
+        "name": "EOD Crab Patch",
+        "category": "accessories",
+        "type": "patch",
+        "price": 9.99,
+        "description": "Embroidered EOD patch. Hook backing for easy attachment.",
+        "images": [
+            "/images/products/eod-patch.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "eod"
+        ],
+        "isCustomizable": false,
+        "material": "Embroidered polyester",
+        "rating": 4.9,
+        "reviewCount": 203,
+        "branch": "specialty"
+    },
+    {
+        "id": "sf-patch",
+        "name": "Special Forces Patch",
+        "category": "accessories",
+        "type": "patch",
+        "price": 9.99,
+        "description": "Special Forces arrowhead patch. Premium embroidery, hook backing.",
+        "images": [
+            "/images/products/sf-patch.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "sf"
+        ],
+        "isCustomizable": false,
+        "material": "Embroidered polyester",
+        "rating": 4.8,
+        "reviewCount": 176,
+        "branch": "specialty"
+    },
+    {
+        "id": "army-mug",
+        "name": "Army Coffee Mug",
+        "category": "accessories",
+        "type": "mug",
+        "price": 16.99,
+        "description": "15oz ceramic mug with Army star. Dishwasher and microwave safe.",
+        "images": [
+            "/images/products/army-mug.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "material": "Ceramic, 15oz",
+        "rating": 4.7,
+        "reviewCount": 94,
+        "branch": "army"
+    },
+    {
+        "id": "navy-mug",
+        "name": "Navy Coffee Mug",
+        "category": "accessories",
+        "type": "mug",
+        "price": 16.99,
+        "description": "15oz ceramic mug with Navy anchor. Perfect for morning coffee.",
+        "images": [
+            "/images/products/navy-mug.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "material": "Ceramic, 15oz",
+        "rating": 4.6,
+        "reviewCount": 81,
+        "branch": "navy"
+    },
+    {
+        "id": "army-wallet",
+        "name": "Army Tactical Wallet",
+        "category": "accessories",
+        "type": "wallet",
+        "price": 34.99,
+        "description": "Durable tactical wallet with Army branding. RFID blocking, multiple card slots.",
+        "images": [
+            "/images/products/army-wallet.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "material": "Ballistic nylon, RFID blocking",
+        "rating": 4.8,
+        "reviewCount": 127,
+        "branch": "army"
+    },
+    {
+        "id": "marines-wallet",
+        "name": "Marines Leather Wallet",
+        "category": "accessories",
+        "type": "wallet",
+        "price": 39.99,
+        "description": "Premium leather wallet with Marines EGA embossed. Classic bifold design.",
+        "images": [
+            "/images/products/marines-wallet.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": false,
+        "material": "Genuine leather, bifold",
+        "rating": 4.9,
+        "reviewCount": 156,
+        "branch": "marines"
+    },
+    {
+        "id": "air-force-tee",
+        "name": "Air Force Classic T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 27.99,
+        "description": "Classic Air Force tee with wings insignia. Clean design, comfortable fit.",
+        "images": [
+            "/images/products/air-force-tee.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Air Force Blue",
+            "Black",
+            "Gray"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.6,
+        "reviewCount": 72,
+        "branch": "air-force"
+    },
+    {
+        "id": "marines-tee",
+        "name": "Marines Classic T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Marines EGA tee. Simple, clean, respectful design for everyday wear.",
+        "images": [
+            "/images/products/marines-tee.png"
+        ],
+        "inStock": true,
+        "collections": [],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Scarlet",
+            "OD Green"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.7,
+        "reviewCount": 98,
+        "branch": "marines"
+    },
+    {
+        "id": "retired-veteran-tee",
+        "name": "\"Proudly Retired\" Veteran T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Celebrate your service with this premium retired veteran tee. A clean, respectful design that says it all — Proudly Retired.",
+        "images": [
+            "/images/products/retired-veteran-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "retirement"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL",
+            "3XL"
+        ],
+        "colors": [
+            "Black",
+            "Gray",
+            "Navy"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.8,
+        "reviewCount": 67,
+        "branch": "other"
+    },
+    {
+        "id": "army-retirement-hoodie",
+        "name": "Army Retirement Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Honor years of Army service with this premium retirement hoodie. Features a distinguished design with Army star and retirement year customization.",
+        "images": [
+            "/images/products/army-retirement-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "retirement"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "OD Green",
+            "Gray"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.9,
+        "reviewCount": 43,
+        "branch": "army"
+    },
+    {
+        "id": "navy-retirement-mug",
+        "name": "Navy Retirement Coffee Mug",
+        "category": "accessories",
+        "type": "mug",
+        "price": 18.99,
+        "description": "15oz ceramic mug celebrating Navy retirement. Features anchor insignia and \"Fair Winds and Following Seas\" inscription. Dishwasher safe.",
+        "images": [
+            "/images/products/navy-retirement-mug.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "retirement"
+        ],
+        "isCustomizable": false,
+        "material": "Ceramic, 15oz",
+        "rating": 4.7,
+        "reviewCount": 89,
+        "branch": "navy"
+    },
+    {
+        "id": "military-retirement-cap",
+        "name": "Military Retirement Cap",
+        "category": "accessories",
+        "type": "cap",
+        "price": 24.99,
+        "description": "Structured cap with embroidered \"Retired\" text and American flag. Adjustable strap for a comfortable fit. A proud everyday wear.",
+        "images": [
+            "/images/products/military-retirement-cap.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "retirement"
+        ],
+        "isCustomizable": false,
+        "colors": [
+            "Black",
+            "Navy",
+            "Tan"
+        ],
+        "material": "Cotton twill",
+        "rating": 4.6,
+        "reviewCount": 112,
+        "branch": "other"
+    },
+    {
+        "id": "rank-up-tee",
+        "name": "\"Rank Up\" Celebration T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 29.99,
+        "description": "Celebrate a well-earned promotion with this premium tee. Clean, bold design perfect for promotion ceremonies and everyday pride.",
+        "images": [
+            "/images/products/rank-up-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "promotion"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "White",
+            "Gray"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.7,
+        "reviewCount": 54,
+        "branch": "other"
+    },
+    {
+        "id": "marines-promotion-hoodie",
+        "name": "Marines Promotion Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 54.99,
+        "description": "Mark the milestone with this premium Marines promotion hoodie. Heavyweight fleece with EGA and promotion-worthy design.",
+        "images": [
+            "/images/products/marines-promotion-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "promotion"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Scarlet"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.8,
+        "reviewCount": 37,
+        "branch": "marines"
+    },
+    {
+        "id": "air-force-promotion-mug",
+        "name": "Air Force Promotion Coffee Mug",
+        "category": "accessories",
+        "type": "mug",
+        "price": 16.99,
+        "description": "15oz ceramic mug celebrating Air Force promotions. Features wings insignia and \"New Rank, Same Mission\" design. Microwave and dishwasher safe.",
+        "images": [
+            "/images/products/air-force-promotion-mug.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "promotion"
+        ],
+        "isCustomizable": false,
+        "material": "Ceramic, 15oz",
+        "rating": 4.6,
+        "reviewCount": 62,
+        "branch": "air-force"
+    },
+    {
+        "id": "promotion-patch",
+        "name": "Promotion Commemoration Patch",
+        "category": "accessories",
+        "type": "patch",
+        "price": 12.99,
+        "description": "Embroidered promotion commemoration patch with hook backing. A meaningful keepsake to mark the achievement of a new rank.",
+        "images": [
+            "/images/products/promotion-patch.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "promotion"
+        ],
+        "isCustomizable": false,
+        "material": "Embroidered polyester",
+        "rating": 4.9,
+        "reviewCount": 78,
+        "branch": "other"
+    },
+    {
+        "id": "pcs-survivor-tee",
+        "name": "\"PCS Survivor\" T-Shirt",
+        "category": "apparel",
+        "type": "tshirt",
+        "price": 27.99,
+        "description": "For everyone who's survived a PCS move — and lived to tell the tale. A fun, relatable tee for military families on the move.",
+        "images": [
+            "/images/products/pcs-survivor-tee.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "pcs"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "Gray",
+            "White"
+        ],
+        "material": "100% cotton, 6.1 oz heavyweight",
+        "rating": 4.8,
+        "reviewCount": 91,
+        "branch": "other"
+    },
+    {
+        "id": "army-pcs-hoodie",
+        "name": "Army PCS Farewell Hoodie",
+        "category": "apparel",
+        "type": "hoodie",
+        "price": 52.99,
+        "description": "The perfect farewell gift for a battle buddy heading to their next duty station. Comfortable heavyweight fleece with Army PCS design.",
+        "images": [
+            "/images/products/army-pcs-hoodie.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "pcs"
+        ],
+        "isCustomizable": true,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ],
+        "colors": [
+            "Black",
+            "OD Green"
+        ],
+        "material": "80% cotton, 20% polyester fleece",
+        "rating": 4.7,
+        "reviewCount": 48,
+        "branch": "army"
+    },
+    {
+        "id": "pcs-adventure-mug",
+        "name": "\"New Orders, New Adventure\" PCS Mug",
+        "category": "accessories",
+        "type": "mug",
+        "price": 16.99,
+        "description": "15oz ceramic mug for the next chapter. Features compass design and \"New Orders, New Adventure\" text. A thoughtful PCS farewell gift.",
+        "images": [
+            "/images/products/pcs-adventure-mug.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "pcs"
+        ],
+        "isCustomizable": false,
+        "material": "Ceramic, 15oz",
+        "rating": 4.8,
+        "reviewCount": 73,
+        "branch": "other"
+    },
+    {
+        "id": "coast-guard-pcs-patch",
+        "name": "Coast Guard PCS Memory Patch",
+        "category": "accessories",
+        "type": "patch",
+        "price": 14.99,
+        "description": "Embroidered Coast Guard duty station memory patch. Hook backing for easy attachment. A lasting memento of the duty station you called home.",
+        "images": [
+            "/images/products/coast-guard-pcs-patch.png"
+        ],
+        "inStock": true,
+        "collections": [
+            "pcs"
+        ],
+        "isCustomizable": false,
+        "material": "Embroidered polyester",
+        "rating": 4.7,
+        "reviewCount": 56,
+        "branch": "coast-guard"
+    }
+]

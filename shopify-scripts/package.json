@@ -1,0 +1,21 @@
+{
+  "name": "mil-apparel-shopify-scripts",
+  "version": "1.0.0",
+  "description": "Shopify Admin API scripts for Mil Apparel store setup",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup-store.js",
+    "collections": "node create-collections.js",
+    "tags": "node tag-products.js",
+    "navigation": "node create-navigation.js",
+    "pages": "node create-pages.js",
+    "descriptions": "node update-descriptions.js",
+    "personalization": "node add-personalization.js",
+    "all": "node setup-store.js"
+  },
+  "dependencies": {
+    "@shopify/shopify-api": "^9.0.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}

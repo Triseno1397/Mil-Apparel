@@ -1,0 +1,355 @@
+[
+    {
+        "id": "army",
+        "name": "Army",
+        "slug": "army",
+        "type": "branch",
+        "description": "Premium apparel for U.S. Army servicemembers, veterans, and supporters.",
+        "image": "/images/branches/army.png"
+    },
+    {
+        "id": "navy",
+        "name": "Navy",
+        "slug": "navy",
+        "type": "branch",
+        "description": "Quality gear honoring those who serve on the sea.",
+        "image": "/images/branches/navy.png"
+    },
+    {
+        "id": "air-force",
+        "name": "Air Force",
+        "slug": "air-force",
+        "type": "branch",
+        "description": "Apparel for the guardians of the skies.",
+        "image": "/images/branches/air-force.png"
+    },
+    {
+        "id": "marines",
+        "name": "Marines",
+        "slug": "marines",
+        "type": "branch",
+        "description": "Gear for the Few, the Proud. Semper Fidelis.",
+        "image": "/images/branches/marines.png"
+    },
+    {
+        "id": "coast-guard",
+        "name": "Coast Guard",
+        "slug": "coast-guard",
+        "type": "branch",
+        "description": "Honoring America's maritime guardians.",
+        "image": "/images/branches/coast-guard.png"
+    },
+    {
+        "id": "army-1st-infantry",
+        "name": "1st Infantry Division",
+        "slug": "army-1st-infantry",
+        "type": "unit",
+        "parentBranch": "army",
+        "description": "The Big Red One. First to fight since 1917.",
+        "image": "/images/units/army/1st-infantry.png"
+    },
+    {
+        "id": "army-82nd-airborne",
+        "name": "82nd Airborne Division",
+        "slug": "army-82nd-airborne",
+        "type": "unit",
+        "parentBranch": "army",
+        "description": "All American. America's Guard of Honor.",
+        "image": "/images/units/army/82nd-airborne.png"
+    },
+    {
+        "id": "army-101st-airborne",
+        "name": "101st Airborne Division",
+        "slug": "army-101st-airborne",
+        "type": "unit",
+        "parentBranch": "army",
+        "description": "Screaming Eagles. Rendezvous with Destiny.",
+        "image": "/images/units/army/101st-airborne.png"
+    },
+    {
+        "id": "army-10th-mountain",
+        "name": "10th Mountain Division",
+        "slug": "army-10th-mountain",
+        "type": "unit",
+        "parentBranch": "army",
+        "description": "Climb to Glory. Mountain warfare specialists.",
+        "image": "/images/units/army/10th-mountain.png"
+    },
+    {
+        "id": "army-rangers",
+        "name": "Army Rangers",
+        "slug": "army-rangers",
+        "type": "unit",
+        "parentBranch": "army",
+        "description": "Rangers Lead the Way. 75th Ranger Regiment.",
+        "image": "/images/units/army/rangers.png"
+    },
+    {
+        "id": "navy-seals",
+        "name": "Navy SEALs",
+        "slug": "navy-seals",
+        "type": "unit",
+        "parentBranch": "navy",
+        "description": "The Only Easy Day Was Yesterday. Naval Special Warfare.",
+        "image": "/images/units/navy/seals.png"
+    },
+    {
+        "id": "navy-submarine",
+        "name": "Submarine Force",
+        "slug": "navy-submarine",
+        "type": "unit",
+        "parentBranch": "navy",
+        "description": "Silent Service. The deep water warriors.",
+        "image": "/images/units/navy/submarine.png"
+    },
+    {
+        "id": "navy-surface-warfare",
+        "name": "Surface Warfare",
+        "slug": "navy-surface-warfare",
+        "type": "unit",
+        "parentBranch": "navy",
+        "description": "Surface Warfare Officers and Sailors.",
+        "image": "/images/units/navy/surface-warfare.png"
+    },
+    {
+        "id": "navy-aviation",
+        "name": "Naval Aviation",
+        "slug": "navy-aviation",
+        "type": "unit",
+        "parentBranch": "navy",
+        "description": "Naval Aviators and Flight Deck Crew.",
+        "image": "/images/units/navy/aviation.png"
+    },
+    {
+        "id": "navy-seabees",
+        "name": "Seabees",
+        "slug": "navy-seabees",
+        "type": "unit",
+        "parentBranch": "navy",
+        "description": "Can Do! Naval Construction Battalion.",
+        "image": "/images/units/navy/seabees.png"
+    },
+    {
+        "id": "air-force-pararescue",
+        "name": "Pararescue (PJ)",
+        "slug": "air-force-pararescue",
+        "type": "unit",
+        "parentBranch": "air-force",
+        "description": "That Others May Live. Elite rescue specialists.",
+        "image": "/images/units/air-force/pararescue.png"
+    },
+    {
+        "id": "air-force-cct",
+        "name": "Combat Control",
+        "slug": "air-force-cct",
+        "type": "unit",
+        "parentBranch": "air-force",
+        "description": "First There. Air traffic control in hostile environments.",
+        "image": "/images/units/air-force/cct.png"
+    },
+    {
+        "id": "air-force-tacp",
+        "name": "TACP",
+        "slug": "air-force-tacp",
+        "type": "unit",
+        "parentBranch": "air-force",
+        "description": "Tactical Air Control Party. Death from above.",
+        "image": "/images/units/air-force/tacp.png"
+    },
+    {
+        "id": "air-force-security-forces",
+        "name": "Security Forces",
+        "slug": "air-force-security-forces",
+        "type": "unit",
+        "parentBranch": "air-force",
+        "description": "Defenders of the Force. Air Force military police.",
+        "image": "/images/units/air-force/security-forces.png"
+    },
+    {
+        "id": "air-force-cyber",
+        "name": "Cyber Operations",
+        "slug": "air-force-cyber",
+        "type": "unit",
+        "parentBranch": "air-force",
+        "description": "Digital warfare specialists protecting the network.",
+        "image": "/images/units/air-force/cyber.png"
+    },
+    {
+        "id": "marines-force-recon",
+        "name": "Force Recon",
+        "slug": "marines-force-recon",
+        "type": "unit",
+        "parentBranch": "marines",
+        "description": "Swift, Silent, Deadly. Marine reconnaissance specialists.",
+        "image": "/images/units/marines/force-recon.png"
+    },
+    {
+        "id": "marines-marsoc",
+        "name": "MARSOC",
+        "slug": "marines-marsoc",
+        "type": "unit",
+        "parentBranch": "marines",
+        "description": "Marine Raiders. Special Operations Command.",
+        "image": "/images/units/marines/marsoc.png"
+    },
+    {
+        "id": "marines-infantry",
+        "name": "Marine Infantry",
+        "slug": "marines-infantry",
+        "type": "unit",
+        "parentBranch": "marines",
+        "description": "Every Marine a Rifleman. The backbone of the Corps.",
+        "image": "/images/units/marines/infantry.png"
+    },
+    {
+        "id": "marines-artillery",
+        "name": "Marine Artillery",
+        "slug": "marines-artillery",
+        "type": "unit",
+        "parentBranch": "marines",
+        "description": "King of Battle. Marine field artillery.",
+        "image": "/images/units/marines/artillery.png"
+    },
+    {
+        "id": "marines-logistics",
+        "name": "Marine Logistics",
+        "slug": "marines-logistics",
+        "type": "unit",
+        "parentBranch": "marines",
+        "description": "Combat Service Support. Keeping Marines in the fight.",
+        "image": "/images/units/marines/logistics.png"
+    },
+    {
+        "id": "coast-guard-maritime-security",
+        "name": "Maritime Security",
+        "slug": "coast-guard-maritime-security",
+        "type": "unit",
+        "parentBranch": "coast-guard",
+        "description": "Port Security and Law Enforcement.",
+        "image": "/images/units/coast-guard/maritime-security.png"
+    },
+    {
+        "id": "coast-guard-aviation",
+        "name": "Coast Guard Aviation",
+        "slug": "coast-guard-aviation",
+        "type": "unit",
+        "parentBranch": "coast-guard",
+        "description": "Rescue swimmers and helicopter crew.",
+        "image": "/images/units/coast-guard/aviation.png"
+    },
+    {
+        "id": "coast-guard-boat-forces",
+        "name": "Boat Forces",
+        "slug": "coast-guard-boat-forces",
+        "type": "unit",
+        "parentBranch": "coast-guard",
+        "description": "Small boat operations and coastal patrol.",
+        "image": "/images/units/coast-guard/boat-forces.png"
+    },
+    {
+        "id": "coast-guard-msrt",
+        "name": "MSRT",
+        "slug": "coast-guard-msrt",
+        "type": "unit",
+        "parentBranch": "coast-guard",
+        "description": "Maritime Security Response Team. Elite tactical unit.",
+        "image": "/images/units/coast-guard/msrt.png"
+    },
+    {
+        "id": "coast-guard-port-security",
+        "name": "Port Security",
+        "slug": "coast-guard-port-security",
+        "type": "unit",
+        "parentBranch": "coast-guard",
+        "description": "Protecting America's ports and waterways.",
+        "image": "/images/units/coast-guard/port-security.png"
+    },
+    {
+        "id": "eod",
+        "name": "EOD",
+        "slug": "eod",
+        "type": "role",
+        "description": "Explosive Ordnance Disposal. Initial Success or Total Failure.",
+        "image": "/images/collections/eod.jpg"
+    },
+    {
+        "id": "infantry",
+        "name": "Infantry",
+        "slug": "infantry",
+        "type": "role",
+        "description": "The backbone of ground combat operations.",
+        "image": "/images/collections/infantry.jpg"
+    },
+    {
+        "id": "aviation",
+        "name": "Aviation",
+        "slug": "aviation",
+        "type": "role",
+        "description": "For those who keep our aircraft flying.",
+        "image": "/images/collections/aviation.jpg"
+    },
+    {
+        "id": "medical",
+        "name": "Medical",
+        "slug": "medical",
+        "type": "role",
+        "description": "Honoring military medical professionals who save lives.",
+        "image": "/images/collections/medical.jpg"
+    },
+    {
+        "id": "mp",
+        "name": "Military Police",
+        "slug": "mp",
+        "type": "role",
+        "description": "Law enforcement professionals in uniform.",
+        "image": "/images/collections/mp.jpg"
+    },
+    {
+        "id": "sf",
+        "name": "Special Forces",
+        "slug": "sf",
+        "type": "role",
+        "description": "De Oppresso Liber. The quiet professionals.",
+        "image": "/images/collections/sf.jpg"
+    },
+    {
+        "id": "engineering",
+        "name": "Engineering",
+        "slug": "engineering",
+        "type": "role",
+        "description": "Building, maintaining, and supporting the mission.",
+        "image": "/images/collections/engineering.jpg"
+    },
+    {
+        "id": "intelligence",
+        "name": "Intelligence",
+        "slug": "intelligence",
+        "type": "role",
+        "description": "Information specialists keeping us ahead of the threat.",
+        "image": "/images/collections/intelligence.jpg"
+    },
+    {
+        "id": "retirement",
+        "name": "Retirement Gifts",
+        "slug": "retirement",
+        "type": "gift",
+        "description": "Honor their service with meaningful retirement gifts.",
+        "image": "/images/collections/retirement.jpg"
+    },
+    {
+        "id": "promotion",
+        "name": "Promotion Gifts",
+        "slug": "promotion",
+        "type": "gift",
+        "description": "Celebrate their achievement with thoughtful promotion gifts.",
+        "image": "/images/collections/promotion.jpg"
+    },
+    {
+        "id": "pcs",
+        "name": "PCS Gifts",
+        "slug": "pcs",
+        "type": "gift",
+        "description": "Farewell and welcome gifts for military moves.",
+        "image": "/images/collections/pcs.jpg"
+    }
+]
