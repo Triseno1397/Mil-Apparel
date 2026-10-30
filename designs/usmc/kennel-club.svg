@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1130">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Stencil+One&family=Oswald:wght@500;700&family=Graduate&display=swap');</style>
+    
+    <filter id="kennel-club-grit" x="0" y="0" width="100%" height="100%" filterUnits="userSpaceOnUse">
+      <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="3" seed="23" result="n"/>
+      <feColorMatrix in="n" type="matrix" result="m"
+        values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 6.9"/>
+      <feComposite in="SourceGraphic" in2="m" operator="in"/>
+    </filter>
+    
+    <mask id="kennel-club-dog" maskUnits="userSpaceOnUse" x="-300" y="-260" width="600" height="600">
+      <rect x="-300" y="-260" width="600" height="600" fill="black"/>
+      <g><path fill="white" d="M0,-175 C-50,-178 -95,-175 -125,-165 L-150,-182 C-200,-200 -252,-186 -262,-150 C-266,-122 -240,-110 -216,-118 C-230,-80 -240,-30 -238,10 C-245,60 -235,110 -200,145 C-160,180 -90,197 0,197 Z"/></g><g transform="scale(-1,1)"><path fill="white" d="M0,-175 C-50,-178 -95,-175 -125,-165 L-150,-182 C-200,-200 -252,-186 -262,-150 C-266,-122 -240,-110 -216,-118 C-230,-80 -240,-30 -238,10 C-245,60 -235,110 -200,145 C-160,180 -90,197 0,197 Z"/></g>
+      <g>
+  <path d="M-158,-172 C-205,-188 -244,-172 -250,-142" stroke="black" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <path d="M-130,-62 Q-92,-84 -46,-52 Q-92,-38 -130,-62 Z" fill="black"/>
+  <circle cx="-74" cy="-56" r="9" fill="white"/>
+  <path d="M-165,-94 Q-104,-112 -34,-66" stroke="black" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <path d="M-14,-162 Q-26,-136 -12,-108" stroke="black" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M-48,-152 Q-60,-132 -48,-114" stroke="black" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M-34,-32 C-95,-38 -168,-4 -178,52" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M-206,58 Q-188,100 -150,124" stroke="black" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M0,62 C-35,82 -92,72 -142,40" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M0,36 L0,62" stroke="black" stroke-width="9"/>
+  <path d="M-128,96 C-85,108 -35,112 0,112 L0,132 C-38,132 -90,126 -132,110 Z" fill="black"/>
+  <path d="M-142,40 C-170,66 -166,104 -130,114" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M-84,120 L-70,62 L-56,120 Z" fill="white" stroke="black" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M-40,122 L-33,94 L-26,122 Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round"/>
+</g><g transform="scale(-1,1)">
+  <path d="M-158,-172 C-205,-188 -244,-172 -250,-142" stroke="black" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <path d="M-130,-62 Q-92,-84 -46,-52 Q-92,-38 -130,-62 Z" fill="black"/>
+  <circle cx="-74" cy="-56" r="9" fill="white"/>
+  <path d="M-165,-94 Q-104,-112 -34,-66" stroke="black" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <path d="M-14,-162 Q-26,-136 -12,-108" stroke="black" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M-48,-152 Q-60,-132 -48,-114" stroke="black" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M-34,-32 C-95,-38 -168,-4 -178,52" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M-206,58 Q-188,100 -150,124" stroke="black" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M0,62 C-35,82 -92,72 -142,40" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M0,36 L0,62" stroke="black" stroke-width="9"/>
+  <path d="M-128,96 C-85,108 -35,112 0,112 L0,132 C-38,132 -90,126 -132,110 Z" fill="black"/>
+  <path d="M-142,40 C-170,66 -166,104 -130,114" stroke="black" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M-84,120 L-70,62 L-56,120 Z" fill="white" stroke="black" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M-40,122 L-33,94 L-26,122 Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round"/>
+</g>
+      <path d="M-62,-24 C-60,-42 60,-42 62,-24 C66,10 30,36 0,38 C-30,36 -66,10 -62,-24 Z" fill="white"
+        stroke="black" stroke-width="12" stroke-linejoin="round"/>
+      <ellipse cx="-27" cy="10" rx="13" ry="7" transform="rotate(-18 -27 10)" fill="black"/>
+      <ellipse cx="27" cy="10" rx="13" ry="7" transform="rotate(18 27 10)" fill="black"/>
+      <path d="M-60,152 Q0,170 60,152" stroke="black" stroke-width="7" fill="none" stroke-linecap="round"/>
+      
+  <path d="M-196,168 Q0,248 196,168 L196,222 Q0,302 -196,222 Z" fill="white" stroke="black" stroke-width="12"/>
+  <path d="M-150,152 Q0,210 150,152" stroke="black" stroke-width="7" fill="none" stroke-linecap="round"/>
+<circle cx="-160" cy="220.3" r="9" fill="black"/><circle cx="-96" cy="237.4" r="9" fill="black"/><circle cx="-32" cy="245.9" r="9" fill="black"/><circle cx="32" cy="245.9" r="9" fill="black"/><circle cx="96" cy="237.4" r="9" fill="black"/><circle cx="160" cy="220.3" r="9" fill="black"/>
+    </mask>
+  </defs>
+  <g filter="url(#kennel-club-grit)">
+    
+    <text x="500" y="90" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="46"
+      letter-spacing="14" fill="#E9E1CB" text-anchor="middle">PROPERTY OF THE</text>
+    <text x="500" y="270" font-family="Graduate, Georgia, serif" font-size="190" fill="#E9E1CB" text-anchor="middle"
+      textLength="900" lengthAdjust="spacingAndGlyphs">DEVIL DOG</text>
+    <text x="500" y="400" font-family="Graduate, Georgia, serif" font-size="120" fill="#B5202E" text-anchor="middle"
+      textLength="760" lengthAdjust="spacingAndGlyphs">KENNEL CLUB</text>
+    <circle cx="500" cy="680" r="215" fill="none" stroke="#E9E1CB" stroke-width="12"/>
+    <circle cx="500" cy="680" r="195" fill="none" stroke="#E9E1CB" stroke-width="4"/>
+    <g transform="translate(500,672) scale(0.64)">
+      <rect x="-300" y="-260" width="600" height="600" fill="#E9E1CB" mask="url(#kennel-club-dog)"/></g>
+    <text x="500" y="985" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="58"
+      letter-spacing="4" fill="#E9E1CB" text-anchor="middle">RULE NO. 1: DON'T PET THE DEVIL DOG</text>
+    <line x1="160" y1="1030" x2="840" y2="1030" stroke="#E9E1CB" stroke-width="4"/>
+    <text x="500" y="1100" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="40"
+      letter-spacing="16" fill="#E9E1CB" text-anchor="middle">EST. 1918 · MEMBERS ONLY</text>
+  </g>
+</svg>

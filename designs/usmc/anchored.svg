@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1100">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Stencil+One&family=Oswald:wght@500;700&family=Graduate&display=swap');</style>
+    
+    <filter id="anchored-grit" x="0" y="0" width="100%" height="100%" filterUnits="userSpaceOnUse">
+      <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="3" seed="31" result="n"/>
+      <feColorMatrix in="n" type="matrix" result="m"
+        values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 7.140000000000001"/>
+      <feComposite in="SourceGraphic" in2="m" operator="in"/>
+    </filter>
+    
+    <mask id="anchored-anc" maskUnits="userSpaceOnUse" x="-320" y="-320" width="640" height="640">
+      <rect x="-320" y="-320" width="640" height="640" fill="black"/>
+      <circle cx="0" cy="-262" r="36" fill="none" stroke="white" stroke-width="18"/>
+      <rect x="-15" y="-232" width="30" height="480" fill="white"/>
+      <g>
+      <path d="M-12,-230 L-12,250 L0,268 Z" fill="white"/>
+      <rect x="-150" y="-178" width="150" height="30" rx="8" fill="white"/>
+      <circle cx="-150" cy="-163" r="22" fill="white"/>
+      <path d="M-212,70 Q-200,240 0,252" stroke="white" stroke-width="32" fill="none"/>
+      <path d="M-212,0 L-262,96 L-214,76 L-168,100 Z" fill="white"/></g><g transform="scale(-1,1)">
+      <path d="M-12,-230 L-12,250 L0,268 Z" fill="white"/>
+      <rect x="-150" y="-178" width="150" height="30" rx="8" fill="white"/>
+      <circle cx="-150" cy="-163" r="22" fill="white"/>
+      <path d="M-212,70 Q-200,240 0,252" stroke="white" stroke-width="32" fill="none"/>
+      <path d="M-212,0 L-262,96 L-214,76 L-168,100 Z" fill="white"/></g>
+      <path id="anchored-rope" d="M34,-262 C140,-240 108,-150 20,-128 C-80,-104 -84,-30 10,-8 C110,16 98,96 4,118
+        C-90,140 -100,200 -20,214 C60,228 150,190 190,120" fill="none" stroke="black" stroke-width="30"
+        stroke-linecap="round"/>
+      <use href="#anchored-rope" stroke="white" stroke-width="16"/>
+      <use href="#anchored-rope" stroke="black" stroke-width="16" stroke-dasharray="3 11"/>
+    </mask>
+    <path id="anchored-top" d="M140,560 A360,360 0 0 1 860,560" fill="none"/>
+    <path id="anchored-bot" d="M100,560 A400,400 0 0 0 900,560" fill="none"/>
+  </defs>
+  <g filter="url(#anchored-grit)">
+    
+    <circle cx="500" cy="560" r="322" fill="none" stroke="#E9E1CB" stroke-width="6"/>
+    <line x1="528.8" y1="231.3" x2="529.8" y2="219.3" stroke="#E9E1CB" stroke-width="2.5"/><line x1="557.3" y1="235.0" x2="559.4" y2="223.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="585.4" y1="241.2" x2="591.1" y2="220.0" stroke="#E9E1CB" stroke-width="4"/><line x1="612.9" y1="249.9" x2="617.0" y2="238.6" stroke="#E9E1CB" stroke-width="2.5"/><line x1="639.5" y1="260.9" x2="644.5" y2="250.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="665.0" y1="274.2" x2="676.0" y2="255.2" stroke="#E9E1CB" stroke-width="4"/><line x1="689.3" y1="289.7" x2="696.2" y2="279.9" stroke="#E9E1CB" stroke-width="2.5"/><line x1="712.1" y1="307.2" x2="719.8" y2="298.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="733.3" y1="326.7" x2="748.9" y2="311.1" stroke="#E9E1CB" stroke-width="4"/><line x1="752.8" y1="347.9" x2="762.0" y2="340.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="770.3" y1="370.7" x2="780.1" y2="363.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="785.8" y1="395.0" x2="804.8" y2="384.0" stroke="#E9E1CB" stroke-width="4"/><line x1="799.1" y1="420.5" x2="810.0" y2="415.5" stroke="#E9E1CB" stroke-width="2.5"/><line x1="810.1" y1="447.1" x2="821.4" y2="443.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="818.8" y1="474.6" x2="840.0" y2="468.9" stroke="#E9E1CB" stroke-width="4"/><line x1="825.0" y1="502.7" x2="836.8" y2="500.6" stroke="#E9E1CB" stroke-width="2.5"/><line x1="828.7" y1="531.2" x2="840.7" y2="530.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="828.7" y1="588.8" x2="840.7" y2="589.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="825.0" y1="617.3" x2="836.8" y2="619.4" stroke="#E9E1CB" stroke-width="2.5"/><line x1="818.8" y1="645.4" x2="840.0" y2="651.1" stroke="#E9E1CB" stroke-width="4"/><line x1="810.1" y1="672.9" x2="821.4" y2="677.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="799.1" y1="699.5" x2="810.0" y2="704.5" stroke="#E9E1CB" stroke-width="2.5"/><line x1="785.8" y1="725.0" x2="804.8" y2="736.0" stroke="#E9E1CB" stroke-width="4"/><line x1="770.3" y1="749.3" x2="780.1" y2="756.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="752.8" y1="772.1" x2="762.0" y2="779.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="733.3" y1="793.3" x2="748.9" y2="808.9" stroke="#E9E1CB" stroke-width="4"/><line x1="712.1" y1="812.8" x2="719.8" y2="822.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="689.3" y1="830.3" x2="696.2" y2="840.1" stroke="#E9E1CB" stroke-width="2.5"/><line x1="665.0" y1="845.8" x2="676.0" y2="864.8" stroke="#E9E1CB" stroke-width="4"/><line x1="639.5" y1="859.1" x2="644.5" y2="870.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="612.9" y1="870.1" x2="617.0" y2="881.4" stroke="#E9E1CB" stroke-width="2.5"/><line x1="585.4" y1="878.8" x2="591.1" y2="900.0" stroke="#E9E1CB" stroke-width="4"/><line x1="557.3" y1="885.0" x2="559.4" y2="896.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="528.8" y1="888.7" x2="529.8" y2="900.7" stroke="#E9E1CB" stroke-width="2.5"/><line x1="471.2" y1="888.7" x2="470.2" y2="900.7" stroke="#E9E1CB" stroke-width="2.5"/><line x1="442.7" y1="885.0" x2="440.6" y2="896.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="414.6" y1="878.8" x2="408.9" y2="900.0" stroke="#E9E1CB" stroke-width="4"/><line x1="387.1" y1="870.1" x2="383.0" y2="881.4" stroke="#E9E1CB" stroke-width="2.5"/><line x1="360.5" y1="859.1" x2="355.5" y2="870.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="335.0" y1="845.8" x2="324.0" y2="864.8" stroke="#E9E1CB" stroke-width="4"/><line x1="310.7" y1="830.3" x2="303.8" y2="840.1" stroke="#E9E1CB" stroke-width="2.5"/><line x1="287.9" y1="812.8" x2="280.2" y2="822.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="266.7" y1="793.3" x2="251.1" y2="808.9" stroke="#E9E1CB" stroke-width="4"/><line x1="247.2" y1="772.1" x2="238.0" y2="779.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="229.7" y1="749.3" x2="219.9" y2="756.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="214.2" y1="725.0" x2="195.2" y2="736.0" stroke="#E9E1CB" stroke-width="4"/><line x1="200.9" y1="699.5" x2="190.0" y2="704.5" stroke="#E9E1CB" stroke-width="2.5"/><line x1="189.9" y1="672.9" x2="178.6" y2="677.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="181.2" y1="645.4" x2="160.0" y2="651.1" stroke="#E9E1CB" stroke-width="4"/><line x1="175.0" y1="617.3" x2="163.2" y2="619.4" stroke="#E9E1CB" stroke-width="2.5"/><line x1="171.3" y1="588.8" x2="159.3" y2="589.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="171.3" y1="531.2" x2="159.3" y2="530.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="175.0" y1="502.7" x2="163.2" y2="500.6" stroke="#E9E1CB" stroke-width="2.5"/><line x1="181.2" y1="474.6" x2="160.0" y2="468.9" stroke="#E9E1CB" stroke-width="4"/><line x1="189.9" y1="447.1" x2="178.6" y2="443.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="200.9" y1="420.5" x2="190.0" y2="415.5" stroke="#E9E1CB" stroke-width="2.5"/><line x1="214.2" y1="395.0" x2="195.2" y2="384.0" stroke="#E9E1CB" stroke-width="4"/><line x1="229.7" y1="370.7" x2="219.9" y2="363.8" stroke="#E9E1CB" stroke-width="2.5"/><line x1="247.2" y1="347.9" x2="238.0" y2="340.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="266.7" y1="326.7" x2="251.1" y2="311.1" stroke="#E9E1CB" stroke-width="4"/><line x1="287.9" y1="307.2" x2="280.2" y2="298.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="310.7" y1="289.7" x2="303.8" y2="279.9" stroke="#E9E1CB" stroke-width="2.5"/><line x1="335.0" y1="274.2" x2="324.0" y2="255.2" stroke="#E9E1CB" stroke-width="4"/><line x1="360.5" y1="260.9" x2="355.5" y2="250.0" stroke="#E9E1CB" stroke-width="2.5"/><line x1="387.1" y1="249.9" x2="383.0" y2="238.6" stroke="#E9E1CB" stroke-width="2.5"/><line x1="414.6" y1="241.2" x2="408.9" y2="220.0" stroke="#E9E1CB" stroke-width="4"/><line x1="442.7" y1="235.0" x2="440.6" y2="223.2" stroke="#E9E1CB" stroke-width="2.5"/><line x1="471.2" y1="231.3" x2="470.2" y2="219.3" stroke="#E9E1CB" stroke-width="2.5"/><polygon points="500.0,230.0 481.1,198.5 518.9,198.5" fill="#B5202E"/><polygon points="830.0,560.0 861.5,541.1 861.5,578.9" fill="#B5202E"/><polygon points="500.0,890.0 518.9,921.5 481.1,921.5" fill="#B5202E"/><polygon points="170.0,560.0 138.5,578.9 138.5,541.1" fill="#B5202E"/>
+    <text font-family="'Black Ops One', Impact, sans-serif" font-size="74" fill="#E9E1CB" text-anchor="middle">
+      <textPath href="#anchored-top" startOffset="50%" textLength="900" lengthAdjust="spacing">ANCHORED SINCE 1775</textPath></text>
+    <text font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="44" letter-spacing="8"
+      fill="#E9E1CB" text-anchor="middle" dy="40">
+      <textPath href="#anchored-bot" startOffset="50%">TUN TAVERN · PHILADELPHIA</textPath></text>
+    <g transform="translate(500,580) scale(0.82)">
+      <rect x="-320" y="-320" width="640" height="640" fill="#E9E1CB" mask="url(#anchored-anc)"/></g>
+    <text x="500" y="1075" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="36"
+      letter-spacing="8" fill="#B5202E" text-anchor="middle">39°57′ N · 75°08′ W · 10 NOV 1775</text>
+  </g>
+</svg>

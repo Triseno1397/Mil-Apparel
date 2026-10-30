@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1150">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Stencil+One&family=Oswald:wght@500;700&family=Graduate&display=swap');</style>
+    
+    <filter id="crayon-ration-grit" x="0" y="0" width="100%" height="100%" filterUnits="userSpaceOnUse">
+      <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="3" seed="17" result="n"/>
+      <feColorMatrix in="n" type="matrix" result="m"
+        values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 7.260000000000001"/>
+      <feComposite in="SourceGraphic" in2="m" operator="in"/>
+    </filter>
+    
+    <mask id="crayon-ration-cr" maskUnits="userSpaceOnUse" x="-50" y="-10" width="100" height="420">
+      <rect x="-50" y="-10" width="100" height="420" fill="white"/>
+      <rect x="-50" y="40" width="100" height="8" fill="black"/>
+      <rect x="-50" y="58" width="100" height="4" fill="black"/>
+      <rect x="-50" y="338" width="100" height="4" fill="black"/>
+      <rect x="-50" y="352" width="100" height="8" fill="black"/>
+      <text x="0" y="200" font-family="'Black Ops One', Impact, sans-serif" font-size="44" fill="black"
+        text-anchor="middle" dominant-baseline="central" transform="rotate(-90 0 200)">CRAYON</text>
+    </mask>
+  </defs>
+  <g filter="url(#crayon-ration-grit)">
+    
+    <rect x="70" y="60" width="860" height="1030" fill="none" stroke="#E9E1CB" stroke-width="10"/>
+    <rect x="88" y="78" width="824" height="994" fill="none" stroke="#E9E1CB" stroke-width="3"/>
+    <text x="500" y="190" font-family="'Black Ops One', Impact, sans-serif" font-size="84" fill="#E9E1CB"
+      text-anchor="middle" textLength="760" lengthAdjust="spacingAndGlyphs">MEAL, READY-TO-COLOR</text>
+    <text x="500" y="250" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="36"
+      letter-spacing="9" fill="#E9E1CB" text-anchor="middle">MENU NO. 1775 · CRAYON, ASSORTED</text>
+    <line x1="140" y1="290" x2="860" y2="290" stroke="#E9E1CB" stroke-width="4"/>
+    <g transform="translate(0,420)">
+      <g transform="rotate(-14 330 420)">
+      <g transform="translate(330,0)">
+        <rect x="-44" y="0" width="88" height="400" rx="6" fill="#E9E1CB" mask="url(#crayon-ration-cr)"/>
+        <path d="M-44,4 L-30,-60 L-10,-104 L10,-104 L30,-60 L44,4 Z" fill="#E9E1CB"/>
+      </g></g>
+      <g transform="translate(0,-30)">
+      <g transform="translate(500,0)">
+        <rect x="-44" y="0" width="88" height="400" rx="6" fill="#B5202E" mask="url(#crayon-ration-cr)"/>
+        <path d="M-44,4 L-30,-60 L-10,-104 L10,-104 L30,-60 L44,4 Z" fill="#B5202E"/>
+      </g></g>
+      <g transform="rotate(14 670 420)">
+      <g transform="translate(670,0)">
+        <rect x="-44" y="0" width="88" height="400" rx="6" fill="#E9E1CB" mask="url(#crayon-ration-cr)"/>
+        <path d="M-44,4 L-30,-60 L-10,-104 L10,-104 L30,-60 L44,4 Z" fill="#E9E1CB"/>
+      </g></g>
+    </g>
+    <line x1="140" y1="880" x2="860" y2="880" stroke="#E9E1CB" stroke-width="4"/>
+    <g font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="38" fill="#E9E1CB" letter-spacing="3">
+      <text x="150" y="935">FLAVOR</text><text x="850" y="935" text-anchor="end">RED (OBVIOUSLY)</text>
+      <text x="150" y="985">MORALE</text><text x="850" y="985" text-anchor="end">100%</text>
+    </g>
+    <text x="500" y="1045" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="500" font-size="28"
+      letter-spacing="7" fill="#E9E1CB" text-anchor="middle">FIELD-TESTED BY GRUNTS · NOT FOR SAILORS</text>
+  </g>
+</svg>

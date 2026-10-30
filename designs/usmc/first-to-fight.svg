@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1080">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Stencil+One&family=Oswald:wght@500;700&family=Graduate&display=swap');</style>
+    
+    <filter id="first-to-fight-grit" x="0" y="0" width="100%" height="100%" filterUnits="userSpaceOnUse">
+      <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="3" seed="41" result="n"/>
+      <feColorMatrix in="n" type="matrix" result="m"
+        values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 7.140000000000001"/>
+      <feComposite in="SourceGraphic" in2="m" operator="in"/>
+    </filter>
+    
+    <mask id="first-to-fight-sh" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="1100">
+      <rect width="1000" height="1100" fill="black"/>
+      <path d="M500,120 L840,190 C840,560 740,780 500,900 C260,780 160,560 160,190 Z" fill="white"/>
+      <path d="M500,120 L840,190 C840,560 740,780 500,900 C260,780 160,560 160,190 Z" fill="none" stroke="black" stroke-width="10" transform="translate(500,510) scale(0.92) translate(-500,-510)"/>
+      <polygon points="330.0,234.0 336.4,251.2 354.7,252.0 340.4,263.4 345.3,281.0 330.0,270.9 314.7,281.0 319.6,263.4 305.3,252.0 323.6,251.2" fill="black"/><polygon points="670.0,234.0 676.4,251.2 694.7,252.0 680.4,263.4 685.3,281.0 670.0,270.9 654.7,281.0 659.6,263.4 645.3,252.0 663.6,251.2" fill="black"/>
+      <text x="500" y="300" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="40"
+        letter-spacing="10" fill="black" text-anchor="middle">EST. 1775</text>
+      <g font-family="'Black Ops One', Impact, sans-serif" fill="black" text-anchor="middle">
+        <text x="500" y="450" font-size="140" textLength="520" lengthAdjust="spacingAndGlyphs">FIRST</text>
+        <text x="500" y="550" font-size="90">TO</text>
+        <text x="500" y="680" font-size="130" textLength="420" lengthAdjust="spacingAndGlyphs">FIGHT</text>
+      </g>
+    </mask>
+  </defs>
+  <g filter="url(#first-to-fight-grit)">
+    
+    <rect width="1000" height="1100" fill="#E9E1CB" mask="url(#first-to-fight-sh)"/>
+    <rect x="150" y="955" width="700" height="80" fill="#B5202E"/>
+    <text x="500" y="1010" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="44"
+      letter-spacing="10" fill="#E9E1CB" text-anchor="middle">IN EVERY CLIME AND PLACE</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Stencil+One&family=Oswald:wght@500;700&family=Graduate&display=swap');</style>
+    
+    <filter id="oorah-grit" x="0" y="0" width="100%" height="100%" filterUnits="userSpaceOnUse">
+      <feTurbulence type="fractalNoise" baseFrequency="0.38" numOctaves="3" seed="61" result="n"/>
+      <feColorMatrix in="n" type="matrix" result="m"
+        values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 6.9"/>
+      <feComposite in="SourceGraphic" in2="m" operator="in"/>
+    </filter>
+    
+  </defs>
+  <g filter="url(#oorah-grit)">
+    
+    <text x="500" y="330" font-family="'Saira Stencil One', 'Black Ops One', Impact, sans-serif" font-size="320"
+      fill="#E9E1CB" text-anchor="middle" textLength="920" lengthAdjust="spacingAndGlyphs">OORAH</text>
+    <rect x="40" y="380" width="580" height="22" fill="#B5202E"/>
+    <rect x="640" y="380" width="320" height="22" fill="#E9E1CB"/>
+    <text x="500" y="480" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="700" font-size="52"
+      letter-spacing="4" fill="#E9E1CB" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs">PRONOUNCED WITH YOUR WHOLE CHEST</text>
+  </g>
+</svg>
