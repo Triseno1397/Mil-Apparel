@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1180"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=IBM+Plex+Mono:wght@400;500&display=swap');</style></defs>
+  <text x="60" y="120" font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" style="font-stretch:125%" font-weight="800" font-size="86" fill="#ECE6D6"
+    textLength="880" lengthAdjust="spacingAndGlyphs">IN EVERY CLIME</text>
+  <text x="60" y="215" font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" style="font-stretch:125%" font-weight="800" font-size="86" fill="#ECE6D6">AND PLACE</text>
+  <rect x="60" y="262" width="120" height="8" fill="#B5202E"/>
+  
+  <text x="60" y="380" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">BELLEAU WOOD</text>
+  <line x1="560" y1="370" x2="800" y2="370" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="380" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1918</text>
+  <text x="60" y="466" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">GUADALCANAL</text>
+  <line x1="560" y1="456" x2="800" y2="456" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="466" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1942</text>
+  <text x="60" y="552" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">TARAWA</text>
+  <line x1="560" y1="542" x2="800" y2="542" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="552" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1943</text>
+  <text x="60" y="638" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">IWO JIMA</text>
+  <line x1="560" y1="628" x2="800" y2="628" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="638" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1945</text>
+  <text x="60" y="724" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">CHOSIN RESERVOIR</text>
+  <line x1="560" y1="714" x2="800" y2="714" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="724" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1950</text>
+  <text x="60" y="810" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">HUE CITY</text>
+  <line x1="560" y1="800" x2="800" y2="800" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="810" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">1968</text>
+  <text x="60" y="896" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">FALLUJAH</text>
+  <line x1="560" y1="886" x2="800" y2="886" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="896" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">2004</text>
+  <text x="60" y="982" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="40"
+    letter-spacing="3" fill="#ECE6D6">MARJAH</text>
+  <line x1="560" y1="972" x2="800" y2="972" stroke="#ECE6D6" stroke-width="3"
+    stroke-dasharray="1 11" stroke-linecap="round"/>
+  <text x="940" y="982" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="38" fill="#ECE6D6" text-anchor="end">2010</text>
+  <rect x="60" y="1060" width="880" height="2" fill="#ECE6D6"/>
+  <text x="60" y="1120" font-family="'IBM Plex Mono', Menlo, monospace" font-size="28" letter-spacing="6" fill="#ECE6D6">1775 – PRESENT</text>
+  <text x="940" y="1120" font-family="'IBM Plex Mono', Menlo, monospace" font-size="28" letter-spacing="6" fill="#ECE6D6" text-anchor="end">SELECT ENGAGEMENTS</text></svg>

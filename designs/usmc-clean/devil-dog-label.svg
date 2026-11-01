@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=IBM+Plex+Mono:wght@400;500&display=swap');</style></defs>
+  <rect x="3" y="3" width="594" height="324" fill="none" stroke="#ECE6D6" stroke-width="4"/>
+  <text x="28" y="56" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="26" letter-spacing="3" fill="#ECE6D6">Nº 1918</text>
+  <text x="572" y="56" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="26" letter-spacing="3" fill="#ECE6D6" text-anchor="end">BELLEAU WOOD</text>
+  <text x="300" y="186" font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" style="font-stretch:125%" font-weight="800" font-size="100" fill="#ECE6D6" text-anchor="middle"
+    textLength="530" lengthAdjust="spacingAndGlyphs">DEVIL DOG</text>
+  <rect x="3" y="262" width="594" height="65" fill="#B5202E"/>
+  <text x="300" y="304" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="24" letter-spacing="9" fill="#ECE6D6"
+    text-anchor="middle">PROPERTY OF THE CORPS</text></svg>

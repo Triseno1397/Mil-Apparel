@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=IBM+Plex+Mono:wght@400;500&display=swap');</style></defs>
+  <g fill="#D8A93B">
+    <!-- heels together, toes out at 45 degrees total: each sole pivots 22.5 degrees on its heel -->
+    <path d="M0,-150 C46,-150 62,-108 60,-58 C58,-16 42,14 36,44 L-30,44 C-42,12 -56,-30 -56,-76 C-56,-126 -36,-150 0,-150 Z M-34,66 L34,66 C42,66 44,74 44,84 L44,128 C44,152 24,168 0,168 C-24,168 -44,152 -44,128 L-44,84 C-44,74 -42,66 -34,66 Z" transform="translate(448,250) scale(0.9) rotate(-22.5 0 120)"/>
+    <path d="M0,-150 C46,-150 62,-108 60,-58 C58,-16 42,14 36,44 L-30,44 C-42,12 -56,-30 -56,-76 C-56,-126 -36,-150 0,-150 Z M-34,66 L34,66 C42,66 44,74 44,84 L44,128 C44,152 24,168 0,168 C-24,168 -44,152 -44,128 L-44,84 C-44,74 -42,66 -34,66 Z" transform="translate(552,250) scale(-0.9,0.9) rotate(-22.5 0 120)"/>
+  </g>
+  <text x="500" y="580" font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" style="font-stretch:125%" font-weight="800" font-size="64" fill="#ECE6D6" text-anchor="middle"
+    textLength="700" lengthAdjust="spacingAndGlyphs">WHERE IT STARTS</text>
+  <text x="500" y="640" font-family="'IBM Plex Mono', Menlo, monospace" font-weight="500" font-size="26" letter-spacing="8" fill="#ECE6D6"
+    text-anchor="middle">PARRIS ISLAND · SAN DIEGO</text></svg>
